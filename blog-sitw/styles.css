@@ -1,0 +1,62 @@
+/*Tag section*/
+body{
+  background-color:beige;
+  text-align: center;
+}
+p{
+  color:darkgray;
+  font-family: 'Poppins', sans-serif;
+}
+/*class section*/
+.heading{
+  padding: 8% 0% 2%;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 5rem;
+  color:mediumseagreen;
+  text-align: center;
+}
+.container-fluid{
+  padding: 0% 15% 3%;
+}
+.navbar {
+padding: 0% 25%;
+}
+.nav-item {
+  padding: 0 10px;
+}
+.nav-link {
+  color: aquamarine;
+  font-family: 'Open Sans', sans-serif;
+}
+.nav-link:hover{
+  color: cadetblue;
+}
+.portfolio-img {
+  width: 50%;
+  height: 90%;
+}
+.fa-brands{
+    padding: 3% 8px 2%;
+  }
+  .carousel-control-next{
+    position: absolute;
+    right: 40px;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+  }
+  
+/*ID section*/
+#images {
+  text-align: center;
+}
+#author-name{
+  text-decoration: underline;
+  color: aquamarine;
+}
+/* .container .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+} */

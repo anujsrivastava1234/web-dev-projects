@@ -1,0 +1,153 @@
+/* Tag Selector*/
+h3 {
+  font-family: 'Open Sans',sans-serif;
+  padding: 0% 22% 17%;
+  line-height: 1.9;
+}
+
+h1 {
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 300;
+  opacity: 1;
+}
+
+h6 {
+  font-size: 80%;
+}
+
+/*Class Selector*/
+.navbar {
+  padding: 0% 30% 7% 10%;
+}
+.navbar-brand {
+  font-family: 'Cinzel',serif;
+  opacity: 1.5  ;
+  font-size: 250%;
+}
+.nav-item {
+  padding: 0% 20% 0% 0%;
+}
+.btn-warning {
+  font-size: small;
+}
+.title-heading-section {
+  color: aliceblue;
+  text-align: center;
+  word-spacing: 5px;
+}
+.btn {
+  width: 120px;
+}
+.intro {
+  font-family: 'PT Serif', serif;
+  padding-bottom: 5%;
+}
+.middle-h1 {
+  padding-top: 3%;
+  font-size: 170%;
+  letter-spacing: 10px;
+}
+.middle-h6-1 {
+  word-spacing: 12px;
+  color: darkgray;
+}
+.middle-h6-2 {
+  word-spacing: 10px;
+  color: darkgray;
+}
+.middle-h6-3 {
+  word-spacing: 8px;
+  color: darkgray;
+}
+.middle-h6-2-1 {
+    word-spacing: 10px;
+  color: darkgray;
+  padding-bottom: 5%;
+}
+hr {
+  width: 50px;
+  height: 1px;
+  background-color: #F8DE7E;
+}
+/*row cols*/
+.row {
+  width: 101%;
+  padding-bottom: 0%;
+}
+.row-col-1 {
+  background-color: 	#36454F;
+}
+.row-col-2 {
+  background-color:#00A693;
+}
+.row-col-img-1 {
+  height: 250px;
+  width: 270px;
+}
+.row-col-h5 {
+  color: aliceblue;
+  letter-spacing: 2px;
+  padding-bottom: 10%;
+}
+
+/*Latest work class*/
+.latest-work-h1 {
+    padding-top: 3%;
+  font-size: 170%;
+  letter-spacing: 10px;
+}
+
+.footer {
+  margin-top: 5%;
+}
+.col-foo-1 {
+  padding: 1% 15%;
+  color: aliceblue;
+  font-size: 95%;
+  text-align: center;
+  background-color:#00A693 ;
+}
+.col-foo-2 {
+  padding: 1% 15%;
+  color: aliceblue;
+  font-size: 95%;
+  text-align: center;
+  background-color: #36454F;
+}
+.latest-work-row-col-1 {
+  padding: 0% 0% 3% 3%;
+}
+.container {
+  padding-top: 6%;
+  padding-bottom: 3%;
+}
+.btn-outline-warning {
+  /* padding-bottom: 5%; */
+  /* height: 50px; */
+}
+.companies-lables {
+  margin-top: 5%;
+  background-color: #36454F;
+  margin-bottom: 5%;
+}
+.container-1 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+/*ID Selector*/
+#title-section {
+  /* background-color: #28282B; */
+  background-image: url('https://wallpaperaccess.com/full/2740052.jpg');
+  background-size:cover;
+  /* background-image: unset; */
+  /* opacity: .75; */
+  height: 100%;
+  width: 100%;
+}
+
+/* #title-section:hover{
+  opacity: 1;
+} */
+#middle-section {
+  text-align: center;
+}  
